@@ -1,0 +1,45 @@
+.body-top {
+    position: relative;
+    margin-bottom: 1000px;
+    margin-top: 25px;
+  }
+  
+  .haircut_1 {
+    position: absolute;
+    top: 00px;
+    left: 0px;
+    max-width: 100%;
+    width: 400px;
+    border-style: solid;
+    border-width: 8px;
+    border-radius: 2px;
+    border-color: rgb(255, 255, 255);
+
+  }
+
+  .landscape_1 {
+    position: absolute;
+    top: 50px;
+    right: 150px;
+    max-width: 100%;
+    max-height: 600px;
+    width: 1100px;
+    border-style: solid;
+    border-width: 8px;
+    border-radius: 2px;
+    border-color: rgb(255, 255, 255);
+    box-shadow: -5px 5px 5px rgb(175, 175, 175);
+  }
+
+  .book_online_button-home {
+    
+    position: absolute;
+    top: 525px;
+    left: 310px;
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 25px;
+    height: 50px;
+    width: 150px;
+    cursor: pointer;
+  }
